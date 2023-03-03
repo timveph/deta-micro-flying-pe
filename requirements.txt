@@ -1,0 +1,5 @@
+pytest==7.2.1
+pytest-frozen-uuids==0.3.5
+python-dotenv==0.21.0
+deta==1.1.0a2
+requests==2.28.2
